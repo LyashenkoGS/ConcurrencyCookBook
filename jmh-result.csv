@@ -1,0 +1,3 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99.9%)","Unit"
+"com.concurrency.cook.book.CrawlerBenchmark.crawleSequentialBenchmark","thrpt",1,2,0.098476,NaN,"ops/s"
+"com.concurrency.cook.book.CrawlerBenchmark.crawlerConncurentBenchmark","thrpt",1,2,0.630048,NaN,"ops/s"

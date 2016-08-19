@@ -13,7 +13,7 @@ import static com.concurrency.cook.book.crawler.JsoupCrawler.parseSiteAndCalcula
  * @author lyashenkogs.
  */
 @RunWith(JUnit4.class)
-public class JsoupOnCallableFutureTest {
+public class JsoupOnCompletableFutureTest {
 
     @Test
     public void testParseSequentially() {
